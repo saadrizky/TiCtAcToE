@@ -15,7 +15,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class tictactoe extends printpapan {
-   int haha;
 
    private static ArrayList<Integer> playerPosition = new ArrayList<Integer>();
    private static ArrayList<Integer> cpuPosition = new ArrayList<Integer>();
