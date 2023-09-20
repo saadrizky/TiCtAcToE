@@ -22,6 +22,7 @@ public class mainmenu {
             clip.loop(Clip.LOOP_CONTINUOUSLY);
             clip.start();
 
+            showMenu();
       }
 
       public static void showMenu() throws IOException {
